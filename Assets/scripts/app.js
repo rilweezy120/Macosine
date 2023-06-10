@@ -4,7 +4,6 @@ const links = document.querySelector(".links");
 let arrayText = ["Sustainable", "Reliable", "Efficient" ];
 
 let count = 0;
-const first = document.getElementById("first");
 
 const doSwitch = () =>{
     if(count >= arrayText.length){
